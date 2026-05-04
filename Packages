@@ -1,0 +1,13 @@
+Package: styleos-core
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Ethan <ethan@styleos.org>
+Filename: ./styleos-pkg.deb
+Size: 752
+MD5sum: 034351374bf0509bf0fb6df871dece64
+SHA1: d75e0ee18c834187e4d50ed744f32e51ab6ecb2e
+SHA256: bfca8952182b020e391d92d5661446aa89783b2654e475d9e6278a6b170795cb
+Section: base
+Priority: optional
+Description: Paquet principal du système StyleOS
+

@@ -1,0 +1,7 @@
+Package: styleos-core
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Ethan <ethan@styleos.org>
+Description: Paquet principal du système StyleOS
